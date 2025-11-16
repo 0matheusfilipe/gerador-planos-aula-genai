@@ -1,0 +1,15 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Arquivos de configuração sensíveis
+config.yaml
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cache do Streamlit
+.streamlit/
